@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.hero{
+    height: 350px;
+
+    background: linear-gradient(
+        to bottom,
+        #13c6c2 0%,
+        #13c6c2 15%,
+        #008c91 15%,
+        #008c91 25%,
+        #6a7098 25%,
+        #8b8fb2 100%
+    );
+}
+
+.cards-section{
+    margin-top: 50px;
+}
+
+.test-box{
+    height: 200px;
+    background-color: #c8c8c8;
+}
